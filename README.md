@@ -150,4 +150,9 @@ The Common Voice platform by Mozilla is a comprehensive and inclusive project de
 
 By participating in Common Voice, you help shape the future of voice technology, ensuring it serves and reflects the diversity of our global community.
 
+### Diagram showing the process
 ![Common Voice Dataset Process](https://github.com/javadasoodeh/Common_Voice_Introduction/raw/main/diagram.png)
+
+### References
+![Common Voice 2024 Roadmap](https://www.youtube.com/watch?v=JyPEZhMCfcU)
+![Mozilla Common Voice Website](https://commonvoice.mozilla.org/)
